@@ -1,9 +1,13 @@
+blog:
+  - https://medium.com/@blakenorrish
+  - https://ministryoftest.medium.com/
 github_following:
   - https://github.com/eroshenkoam
   - https://github.com/qxf2
 
 plugins:
   - https://zhuanlan.zhihu.com/p/400059601
+
 
 cheatsheet:
   - https://github.com/gto76/python-cheatsheet
