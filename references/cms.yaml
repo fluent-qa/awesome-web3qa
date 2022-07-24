@@ -6,14 +6,22 @@ product:
   - https://www.archbee.com/
   - https://docs.nteract.io/
   - https://gradio.app/getting_started/
-
+  - https://logana.dev/
+  - https://www.nextjs.cn/showcase
+  - https://github.com/pingcap/ossinsight
+  
 github_following:
   - https://github.com/maqi1520
   - https://github.com/adrianmcli
   - https://github.com/vuestorefront
   - https://github.com/hta218
   - https://github.com/wednesday-solutions
+
 github:
+  - https://github.com/willemliu/bnr-omny
+  - https://github.com/unicodeveloper/awesome-nextjs
+  - https://github.com/vercel/next.js
+  - https://github.com/logan-anderson/blog-nextjs-tina-tailwind
   - https://github.com/maqi1520/nextjs-tailwind-blog.git
   - https://github.com/atapas/webapis-playground
   - https://github.com/emmanuelgautier/nextjs-showcase
