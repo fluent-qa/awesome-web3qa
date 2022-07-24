@@ -23,3 +23,6 @@ hypocrisy:
 We are all hypocrisy in some sense. Have fun.
 
 
+## But how to be real?
+
+Maybe web3 and your stake.
